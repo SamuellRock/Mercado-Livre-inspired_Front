@@ -1,7 +1,7 @@
 import React from "react"
 
 
-function Produto() {
+function Produtos() {
 
 
   return (
@@ -48,4 +48,4 @@ function Produto() {
   )
 }
 
-export default Produto
+export default Produtos
